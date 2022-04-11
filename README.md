@@ -1,2 +1,2 @@
 # angular-bookshelf
- Angular test work
+ Angular application - building bookshelf components as a learning experience.
